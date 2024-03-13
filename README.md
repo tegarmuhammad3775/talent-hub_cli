@@ -8,6 +8,8 @@ Talent Hub - Quality Engineer - Mengimplementasikan Command Line Interface (CLI)
 <br> Link Jawaban Soal Prioritas 1 : 
 <br> https://docs.google.com/document/d/1SFGRsmMqTBaVodH7MtYW894pHuirOpGuk2zMy7c2gOc/edit?usp=sharing
 
+<br>
+
 **=> Jawaban Soal Prioritas 2**  <br>
 
 ![image](https://github.com/tegarmuhammad3775/talent-hub_cli/assets/23182414/86d9fd1a-b7ae-4509-9da5-24065b5134a1)
