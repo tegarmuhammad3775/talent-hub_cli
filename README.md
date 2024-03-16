@@ -1,4 +1,4 @@
-# Tugas Kelas Talent Hub Quality Engineer Day 3 - Mengimplementasikan Command Line Interface (CLI)
+# Tugas Kelas Talent Hub Quality Engineer Day 1 - Mengimplementasikan Command Line Interface (CLI)
 Talent Hub - Quality Engineer - Mengimplementasikan Command Line Interface (CLI) 
 
 **=> Jawaban Soal Prioritas 1**
